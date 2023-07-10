@@ -34,7 +34,7 @@ python manage.py runserver
 http://127.0.0.1:8000/
 
 #API Endpoints
-The project provides the following API endpoints:
+#The project provides the following API endpoints:
 
 http://127.0.0.1:8000//api/companies/: CRUD operations for companies.
 http://127.0.0.1:8000//api/employees/: CRUD operations for employees.
@@ -42,14 +42,14 @@ http://127.0.0.1:8000//api/devices/: CRUD operations for devices.
 http://127.0.0.1:8000//api/assets/: CRUD operations for assets.
 http://127.0.0.1:8000//api/devicelog/: CRUD operations for device logs.
 
-For Admin:
-created Superuser:
+#For Admin:
+#created Superuser:
 username:root
 email:root@gmail.com
 password:12345
 
 #I hope this instruction and facilities will help you to use and understand the project features easily. I give my best to make this app user-friendly.
-Thank You so much!
+#Thank You so much!
 
 
 
